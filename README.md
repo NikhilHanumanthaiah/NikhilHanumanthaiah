@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Nikhil H
+- 👀 I’m interested in Azure Data Engineering
+- 🌱 I’m currently learning Spark and Azure Databricks
+- 💞️ I’m looking to collaborate on any Azure Data engineering projects
+- 📫 connect with me on linkdin - https://www.linkedin.com/in/nikhilhanumanthaiah/
+- 😄 Pronouns: He/Him
