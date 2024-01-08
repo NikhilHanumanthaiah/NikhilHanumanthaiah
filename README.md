@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nikhil H
-- 👀 I’m interested in Azure Data Engineering having AZ-900,DP-900 and Dp-203
+- 👀 I’m interested in Azure Data Engineering having AZ-900,DP-900 and DP-203
 - 🌱 I’m currently learning Spark and Azure Databricks
 - 💞️ I’m looking to collaborate on any Azure Data engineering projects
 - 📫 connect with me on linkdIn - https://www.linkedin.com/in/nikhilhanumanthaiah/
